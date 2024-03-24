@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zodiac Check</string>
+    <string name="btn_back">กลับ</string>
+    <string name="btn_start_app">เรื่ม</string>
+    <string name="btn_exit">ออก</string>
+    <string name="lable_name">นายฐิติพงษ์ เรือนสุภา</string>
+    <string name="lable_id_std">6404101311</string>
+    <string name="enter_birth">ระบุวันเกิดของคุณ (ดด/วว)</string>
+    <string name="btn_submit">ตกลง</string>
+    <string name="show_zodiac_here">ราศีของคุณคือ.....</string>
+    <string name="zodiac_image">zodiac_image</string>
+    <string name="zodiac_personality">ลักษณะนิสัยราศีของคุณคือ....</string>
+</resources>

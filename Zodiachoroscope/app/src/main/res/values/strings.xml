@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zodiac Check</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_start_app">Start</string>
+    <string name="btn_exit">Exit</string>
+    <string name="lable_name">MR.Tithipong Ruensupa</string>
+    <string name="lable_id_std">6404101311</string>
+    <string name="enter_birth">Enter your birth date (MM/DD)</string>
+    <string name="btn_submit">Enter</string>
+    <string name="show_zodiac_here">Your zodiac sign is.....</string>
+    <string name="zodiac_image">zodiac_image</string>
+    <string name="zodiac_personality">Your zodiac personality is....</string>
+</resources>
