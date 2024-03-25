@@ -25,7 +25,7 @@
         android:layout_width="379dp"
         android:layout_height="150dp"
         android:layout_marginBottom="212dp"
-        app:layout_constraintBottom_toTopOf="@+id/horoscopeTextView"
+        app:layout_constraintBottom_toTopOf="@+id/zodiacPersonalityTextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -60,7 +60,7 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <TextView
-        android:id="@+id/horoscopeTextView"
+        android:id="@+id/zodiacPersonalityTextView"
         android:layout_width="346dp"
         android:layout_height="240dp"
         android:text="@string/zodiac_personality"
@@ -79,7 +79,7 @@
         android:text="@string/show_zodiac_here"
         android:textSize="24sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/horoscopeTextView"
+        app:layout_constraintBottom_toTopOf="@+id/zodiacPersonalityTextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
